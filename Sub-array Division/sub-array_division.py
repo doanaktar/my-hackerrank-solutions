@@ -1,4 +1,5 @@
 #!/bin/python3
+
 import math
 import os
 import random
@@ -7,27 +8,22 @@ import sys
 
 # Complete the birthday function below.
 def birthday(s, d, m):
-    i = 0
-    j = 1
     count = 0
-    if len(s) < 2 and s[0] == d:
-        return m
-    elif len(s) < 2 and s[0] != d:
+    output = 0
+    if len(s) < m:
         return 0
+    elif len(s) == 1 and s[0] == d:
+        return m
     else:
-        while i < 5:
-            if s[i] + s[j] == d:
-                count += 1
-                i += 1
-                j += 1
-                if count == m:
-                    break
-                else:
-                    continue
+        for i in range(0, len(s) - m + 1):
+            for j in range (i, i + m):
+                count += s[j]
+            if count == d:
+                output += 1    
+                count = 0
             else:
-                i += 1
-                j += 1
-        return count
+                count = 0
+    return output                
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
