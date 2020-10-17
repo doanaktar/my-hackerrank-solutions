@@ -13,4 +13,4 @@
 
 Solutions are coded using Python
 
-SQL solutions are coded using MySQL
+SQL solutions are coded using MS SQL Server
