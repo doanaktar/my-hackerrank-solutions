@@ -1,6 +1,6 @@
 def mutate_string(string, position, character):
     string = list(string)
-    string[position] = 'k'
+    string[position] = character
     return(''.join(string))
     
 if __name__ == '__main__':
