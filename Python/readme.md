@@ -22,11 +22,8 @@
 |         Strings             | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)                                             |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/Find%20a%20string.py)                                                                      |
 |         Strings             | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)                                     |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/string_validators.py)                                                                      |
 |         Strings             | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)                                           |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/text_alignment.py)                                                                         |
-
-
-
-
-
-
+|         Strings             | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)                                                     |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/text_wrap.py)                                                                              |
+|         Strings             | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)                                     |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/designer_door_mat.py)                                                                      |
+|         Strings             | [String Formatting](https://www.hackerrank.com/challenges/python-loops/problem)                                          |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Strings/string_formatting.py)                                                                      | 
 |         Sets                | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)                            |   10   | [Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Python/Sets/Introduction%20to%20Sets.py)                                                                  |
 
