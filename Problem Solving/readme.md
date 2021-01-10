@@ -38,7 +38,7 @@
 |      Basic Programming      | [Jumping on the Clouds - Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)                   |   15   |  |
 |      Basic Programming      | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                                                   |   15   |                           |
 |      Basic Programming      | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)                                               |   15   |                         |
-|      Basic Programming      | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                                                   |   15   |                          |
+|      Basic Programming      | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)                                                   |   15   |[Solution](https://github.com/doganaktarr/My-HackerRank-Solutions/blob/master/Problem%20Solving/Solutions/Electronics%20Shop/electronics_shop.py)                                              |
 |      Basic Programming      | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)                                                   |   15   |                      |
 |      Basic Programming      | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)                                                     |   15   |                         |
 |      Basic Programming      | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)                                                           |   20   |                               |
